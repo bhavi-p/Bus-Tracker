@@ -94,7 +94,7 @@ async function run(){
   console.log(busMarkers);
     
 	// timer
-	// setTimeout(run, 2000);
+	setTimeout(run, 2000);
 }
 
 
